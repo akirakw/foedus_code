@@ -99,6 +99,14 @@ start from [foedus-core](foedus-core) and
 Licensing, short get-started examples, etc for **users** are there.
 The sections below are for people developing FOEDUS itself.
 
+Current Build Status on Jenkins (For FOEDUS Developers)
+-----------
+
+Build Type | *master* Branch
+--- | ---
+| debug | [![Build Status](http://ci-large-scale-oltp-team.japaneast.cloudapp.azure.com/job/master-foedus-debug/badge/icon)](http://ci-large-scale-oltp-team.japaneast.cloudapp.azure.com/job/master-foedus-debug/)
+| release-valgrind | [![Build Status](http://ci-large-scale-oltp-team.japaneast.cloudapp.azure.com/job/master-foedus-release-valgrind/badge/icon)](http://ci-large-scale-oltp-team.japaneast.cloudapp.azure.com/job/master-foedus-release-valgrind/)
+
 Building Development Environment (For FOEDUS Developers)
 --------
 We recommend newer Fedora, Ubuntu/Debian, etc.
